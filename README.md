@@ -11,7 +11,7 @@ This project tackles the challenge by combining:
 - **Machine learning models** (e.g., decision trees, logistic regression, LSTM neural networks)
 
 The goal is to forecast short-term stock growth and simulate trading strategies that outperform benchmark indices like the S&P 500. By integrating diverse data sources and modeling techniques, the project aims to uncover actionable insights and build a robust decision-making framework for investors.
-4 years' data for 16 US financial instruments with high liquidility ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] were selected to train and test the a few models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
+4 years' data for 16 US financial instruments with high liquidility ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] were selected to train and test a bunch of ML models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
 
 ## 🚀 Project Overview
 
