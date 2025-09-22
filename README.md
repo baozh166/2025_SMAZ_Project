@@ -43,11 +43,6 @@ The notebook performs the following key tasks:
 - Keras/TensorFlow for LSTM modeling
 - Jupyter Notebook (Google Colab compatible)
 
-## 📁 File Structure
-├── SMAZ_2025_project_final.ipynb # Main notebook 
-├── README.md # Project documentation 
-├── stocks_df_combined_YYYY_MM_DD.parquet.brotli # Final dataset
-
 ## 📂 Data Access
 
 The dataset used in this project is available for download:
