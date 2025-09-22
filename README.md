@@ -1,6 +1,6 @@
 # 📊 SMAZ 2025 Project: Financial Forecasting and Trading Simulation
 
-This project explores financial time series analysis, macroeconomic indicators, technical analysis, and machine learning models to predict stock growth and simulate trading strategies. It leverages Python, Jupyter Notebook, and various data science libraries to build a robust pipeline for investment decision-making. a set of stock ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] with the past 4 years' data was selected to train and test the a few models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
+This project explores financial time series analysis, macroeconomic indicators, technical analysis, and machine learning models to predict stock growth and simulate trading strategies. It leverages Python, Jupyter Notebook, and various data science libraries to build a robust pipeline for investment decision-making. 16 US financial instruments ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] with the past 4 years' data were selected to train and test the a few models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
 
 ## 🚀 Project Overview
 
