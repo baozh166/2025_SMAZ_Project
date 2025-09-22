@@ -1,6 +1,17 @@
 # 📊 SMAZ 2025 Project: Financial Forecasting and Trading Simulation
 
-This project explores financial time series analysis, macroeconomic indicators, technical analysis, and machine learning models to predict stock growth and simulate trading strategies. It leverages Python, Jupyter Notebook, and various data science libraries to build a robust pipeline for investment decision-making. 16 US financial instruments ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] with the past 4 years' data were selected to train and test the a few models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
+## 🧠 Description
+
+Stock market prediction is a notoriously complex and dynamic problem. Prices are influenced by a multitude of factors including macroeconomic indicators, company fundamentals, geopolitical events, investor sentiment, and technical patterns. Traditional models often struggle to capture the nonlinear and stochastic nature of financial markets.
+
+This project tackles the challenge by combining:
+
+- **Macroeconomic context** (e.g., GDP, CPI, interest rates)
+- **Technical analysis** (e.g., momentum, volatility, volume indicators)
+- **Machine learning models** (e.g., decision trees, logistic regression, LSTM neural networks)
+
+The goal is to forecast short-term stock growth and simulate trading strategies that outperform benchmark indices like the S&P 500. By integrating diverse data sources and modeling techniques, the project aims to uncover actionable insights and build a robust decision-making framework for investors.
+4 years' data for 16 US financial instruments with high liquidility ['TSLA', '^GSPC', '^NDX', 'BTC-USD', 'ETH-USD', 'AAPL', 'MSFT', 'GOOG', 'NVDA', 'AMZN', 'META', 'BRK-B', 'LLY', 'AVGO','V', 'JPM'] were selected to train and test the a few models. The best model (Ranfom Forest) achieved a **CAGR of 26.36%** over 4 years.
 
 ## 🚀 Project Overview
 
